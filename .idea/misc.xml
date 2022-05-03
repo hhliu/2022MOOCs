@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1745" />
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/drawable/dr_bt_add_xml.xml" value="0.1745" />
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/drawable/dr_bt_background.xml" value="0.1965" />
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1745" />
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/layout/activity_bookkeeping_constraintlayout.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/hungh/Creative Cloud Files/A06-AndroidProjects/2022MOOCs/app/src/main/res/layout/test.xml" value="0.28854166666666664" />
       </map>
     </option>
   </component>
