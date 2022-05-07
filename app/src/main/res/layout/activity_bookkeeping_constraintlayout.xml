@@ -87,11 +87,12 @@
         android:drawablePadding="5dp"
         android:text="@string/lb_addAccountBanner"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
+        app:drawableStartCompat="@drawable/ic_moneycare"
         app:layout_constraintBottom_toTopOf="@+id/guideline5"
         app:layout_constraintEnd_toStartOf="@+id/guideline4"
         app:layout_constraintStart_toStartOf="@+id/guideline1"
-        app:layout_constraintTop_toTopOf="parent"
-        app:drawableStartCompat="@drawable/ic_moneycare"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button"
@@ -241,6 +242,7 @@
         android:text="@string/lb_categroy"
         android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
         app:layout_constraintBottom_toTopOf="@+id/guideline7"
         app:layout_constraintEnd_toStartOf="@+id/textView3"
         app:layout_constraintStart_toStartOf="@+id/guideline"
@@ -254,6 +256,7 @@
         android:text="@string/lb_item"
         android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
         app:layout_constraintBottom_toTopOf="@+id/guideline8"
         app:layout_constraintEnd_toStartOf="@+id/textView4"
         app:layout_constraintStart_toStartOf="@+id/guideline"
@@ -267,6 +270,7 @@
         android:text="@string/lb_payment"
         android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
         app:layout_constraintBottom_toTopOf="@+id/guideline9"
         app:layout_constraintEnd_toStartOf="@+id/textView5"
         app:layout_constraintStart_toStartOf="@+id/guideline"
@@ -280,6 +284,7 @@
         android:text="@string/lb_date"
         android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
         app:layout_constraintBottom_toTopOf="@+id/guideline10"
         app:layout_constraintEnd_toStartOf="@+id/textView6"
         app:layout_constraintStart_toStartOf="@+id/guideline"
@@ -293,6 +298,7 @@
         android:text="@string/lb_note"
         android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/bannerDark"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="@+id/guideline"
         app:layout_constraintTop_toTopOf="@+id/editText2" />
