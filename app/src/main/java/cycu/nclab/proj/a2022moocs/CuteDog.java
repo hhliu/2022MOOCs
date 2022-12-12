@@ -41,7 +41,7 @@ public class CuteDog extends AppCompatActivity {
         // 使用Handler自動切換螢幕畫面
         Message msg = myHandler.obtainMessage();
         msg.what = IMAGE_TWO;
-        myHandler.sendMessageDelayed(msg, interval); // 0.5秒後執行
+        myHandler.sendMessageDelayed(msg, interval); // 0.2秒後執行
     }
 
     @Override
