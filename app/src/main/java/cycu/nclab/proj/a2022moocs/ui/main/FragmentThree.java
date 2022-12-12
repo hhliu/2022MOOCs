@@ -20,7 +20,7 @@ import cycu.nclab.proj.a2022moocs.R;
 public class FragmentThree extends Fragment {
 
     static int count = 0;
-    final String TAG = "FragmentOne";
+    final String TAG = "FragmentThree";
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

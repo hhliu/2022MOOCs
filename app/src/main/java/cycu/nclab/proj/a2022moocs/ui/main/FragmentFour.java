@@ -81,7 +81,7 @@ public class FragmentFour extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        Log.d(TAG, "enter onCreateView(), #" + count);
+        Log.i(TAG, "enter onCreateView(), #" + count);
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.activity_cute_dog, container, false);
         uiInit(rootView);
